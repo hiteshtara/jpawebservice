@@ -1,0 +1,5 @@
+org\resthub\training\SampleInitializer.class
+org\resthub\training\WebAppInitializer.class
+org\resthub\training\model\Sample.class
+org\resthub\training\repository\SampleRepository.class
+org\resthub\training\controller\SampleController.class
